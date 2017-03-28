@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-28T14:33:55</date>
+  <millis>1490682835166</millis>
+  <sequence>1</sequence>
+  <logger>com.paloit.mac.ff.HelloTekki</logger>
+  <level>INFO</level>
+  <class>com.paloit.mac.ff.HelloTekki</class>
+  <method>tearDown</method>
+  <thread>1</thread>
+  <message>Tekki Login Feature is succesful!: Test Pass</message>
+</record>
+</log>
